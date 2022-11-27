@@ -69,6 +69,7 @@ font-style: oblique;
     color:darkblue;
     text-decoration:underline;
 }
+.work a:hover{color:blue;}
 .w{
     font-family:Arial, Helvetica, sans-serif;
     font-size:large;  
